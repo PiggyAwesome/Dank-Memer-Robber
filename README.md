@@ -69,11 +69,11 @@ bot = discum.Client(token="YOUR_TOKEN_HERE", log=False)
 
 ## 5. Deposit, Withdraw, Use, Market
 <br>
-Fail: Withdraws 10% of your withdraw amount
-Dep & With: Deposits and Withdraws directly after each other
-Withdraw: Withdraws the specified amount of money
-Deposit: Deposits the specified amount of money
-Use: Uses the specified item with no arguments
-Market: Views current market offers for the specified item
++ Fail: Withdraws 10% of your withdraw amount
++ Dep & With: Deposits and Withdraws directly after each other
++ Withdraw: Withdraws the specified amount of money
++ Deposit: Deposits the specified amount of money
++ Use: Uses the specified item with no arguments
++ Market: Views current market offers for the specified item
 
 ![image](https://user-images.githubusercontent.com/48888771/224493849-2b156561-b552-40b1-ad53-4f3b9bd3243b.png)
