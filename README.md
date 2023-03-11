@@ -1,7 +1,7 @@
 # Dank-Memer-Robber
 An easy GUI for Dank Memer robbers!
 
-It is advised to read through the entire Readme before running this program. If you post an issue, but you have not followed all of these steps, it will instantly be closed.
+It is advised to read through the entire Readme before running this program. If you post an issue, but you have not followed all of these steps - it will instantly be closed.
 
 ### How to set up:
 
