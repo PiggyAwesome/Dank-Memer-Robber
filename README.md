@@ -1,6 +1,8 @@
 # Dank-Memer-Robber
 An easy GUI for Dank Memer robbers!
 
+This application is against the Discord and Dank Memer TOS. I only created this program as a proof of concept. I advise you to not use this program, even if the chances of you getting banned are really slim.
+
 It is advised to read through the entire Readme before running this program. If you post an issue, but you have not followed all of these steps - it will instantly be closed.
 
 ### How to set up:
