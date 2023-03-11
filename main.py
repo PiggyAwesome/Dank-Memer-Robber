@@ -1,5 +1,6 @@
 import random, discum, json, requests, threading, queue
-from discum.utils.slash import SlashCommander, Buttoner
+from discum.utils.slash import SlashCommander
+from discum.utils.button import Buttoner
 import PySimpleGUI as sg
 from funcs import Funcs
 
