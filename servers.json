@@ -1,0 +1,94 @@
+{
+
+    "private": {
+        "channelID": 69696969,
+        "guildID": 69696969,
+        "cooldown": 20
+    },
+    
+    "egirl": {
+        "channelID": 836561730121236510,
+        "guildID": 727649662475173962,
+        "cooldown": 10
+    },
+
+    "2d": {
+        "channelID": 573681764191567892,
+        "guildID": 315581703139885060,
+        "cooldown": 20
+    },
+
+    "speed": {
+        "channelID": 940663774220783716,
+        "guildID": 800906094729101353,
+        "cooldown": 10
+    },
+
+    "chill": {
+        "channelID": 330246332902277121,
+        "guildID": 219564597349318656,
+        "cooldown": 20
+    },
+
+    "emoji": {
+        "channelID": 532952832178126858,
+        "guildID": 321845546534830085,
+        "cooldown": 10
+    },
+
+    "meme": {
+        "channelID": 825433206064152596,
+        "guildID": 270613445177638922,
+        "cooldown": 10
+    },
+    "dad": {
+        "channelID": 673397934171226112,
+        "guildID": 319560327719026709,
+        "cooldown": 20
+    },
+    "edgy": {
+        "channelID": 803939413725675580,
+        "guildID": 396915157948956672,
+        "cooldown": 20
+    },
+    "smd": {
+        "channelID": 548284666185121793,
+        "guildID": 548282453907865660,
+        "cooldown": 20
+    },
+    "egirl2": {
+        "channelID": 882364352290775091,
+        "guildID": 781283813497896990,
+        "cooldown": 20
+    },
+    "chat": {
+        "channelID": 1068479296957599785,
+        "guildID": 1029523457240739860,
+        "cooldown": 20
+    },
+    "bulivard": {
+        "channelID": 822967260179726358,
+        "guildID": 771012623609102338,
+        "cooldown": 20
+    },
+    "booty": {
+        "channelID": 982840124926754826,
+        "guildID": 982840079594717255,
+        "cooldown": 20
+    },
+    "sentri": {
+        "channelID": 957346412683743324,
+        "guildID": 936306541093597297,
+        "cooldown": 20
+    },
+    "deja vu": {
+        "channelID": 807235372332875816,
+        "guildID": 719302404935516190,
+        "cooldown": 20
+    },
+    "mix": {
+        "channelID": 1013519250398380112,
+        "guildID": 749525669259640862,
+        "cooldown": 20
+    }
+}
