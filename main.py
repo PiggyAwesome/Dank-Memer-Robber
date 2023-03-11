@@ -52,7 +52,7 @@ layout = [
         [   sg.Button(key='Search', image_filename="visuals/search.png"), sg.Button(key='Crime', image_filename="visuals/knife.png"), sg.Button(key='Scratch', image_filename="visuals/lottery.png"),
             sg.Button(key='Work', image_filename="visuals/briefcase.png"), sg.Button(key='Padlock', image_filename="visuals/padlock.png"), sg.Button(key='Landmine', image_filename="visuals/landmine.png")
         ],
-        [sg.Button(key='Wishlist', image_filename="visuals/Robberswishlist.png"), sg.Button("Check Balance", key="Check Balance"), sg.Button("Donate", key="Donate")],
+        [sg.Button(key='Wishlist', image_filename="visuals/Robberswishlist.png"), sg.Button("Check Balance", key="Check Balance"),
 
         [sg.Text('Server name:',size=(20, 1), font='Lucida', justification='left')],
         [sg.Combo(servers, key='name', size=(20, 1), default_value="2d")],
@@ -146,10 +146,6 @@ def gui(q):
 
         if event == 'Dep & With':
             threading.Thread(target=Funcs.depnwith, args=[values["dep_amount"], values["wit_amount"], values["name"]]).start()
-
-        if event == "Donate":
-            Funcs.run_any("serverevents donate", "grim", inputs={"quantity": values["wit_amount"]})
-
 
         if event == 'angry':
             bot.sendMessage(str(info[values["name"]]["channelID"]), random.choice(angry))
