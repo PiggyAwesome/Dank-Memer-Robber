@@ -50,7 +50,7 @@ bot = discum.Client(token="YOUR_TOKEN_HERE", log=False)
 ![image](https://user-images.githubusercontent.com/48888771/224492962-c37fca33-9898-4e9d-b7e8-4099c0ca6b1c.png)
 
 ## 4. Misc
-#### This application makes it easy to quickly:
+#### This application makes it easy to quickly do the following:
 1. Use a horseshoe
 2. Use Whiskey
 3. Use Alcohol
@@ -63,5 +63,17 @@ bot = discum.Client(token="YOUR_TOKEN_HERE", log=False)
 10. Work
 11. Use Padlock
 12. Use Landmine
-13. <br>
+<br>
 ![image](https://user-images.githubusercontent.com/48888771/224493189-efb86fa6-9356-4bdf-af1b-18f1a61a41dd.png)
+
+
+## 5. Deposit, Withdraw, Use, Market
+<br>
+Fail: Withdraws 10% of your withdraw amount
+Dep & With: Deposits and Withdraws directly after each other
+Withdraw: Withdraws the specified amount of money
+Deposit: Deposits the specified amount of money
+Use: Uses the specified item with no arguments
+Market: Views current market offers for the specified item
+
+![image](https://user-images.githubusercontent.com/48888771/224493849-2b156561-b552-40b1-ad53-4f3b9bd3243b.png)
