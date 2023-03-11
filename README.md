@@ -37,7 +37,7 @@ bot = discum.Client(token="YOUR_TOKEN_HERE", log=False)
 ## Select command location
 #### Select a server you have added in `servers.json` using the dropdown menu before sending any commands. <br>
 
-![image](https://user-images.githubusercontent.com/48888771/224495194-3cebb24d-da98-42ae-964b-cddeb0164cac.png)
+![image](https://user-images.githubusercontent.com/48888771/224495194-3cebb24d-da98-42ae-964b-cddeb0164cac.png)<br>
 ![image](https://user-images.githubusercontent.com/48888771/224492962-c37fca33-9898-4e9d-b7e8-4099c0ca6b1c.png)
 
 
@@ -47,7 +47,7 @@ bot = discum.Client(token="YOUR_TOKEN_HERE", log=False)
 ![image](https://user-images.githubusercontent.com/48888771/224492562-8e2628cd-9f99-421d-9d90-5f6bac464df5.png)
 
 ## Add users to roblist
-#### To add users to the roblist you can either copy and paste your wishlist into Window 1, or add a User ID manually. After you have added the users click the `Update Roblist` button.<br>
+#### To add users to the roblist you can either copy and paste your wishlist into Window 1, or add a User ID manually. After you have added the users, click the `Update Roblist` button.<br>
 
 ![image](https://user-images.githubusercontent.com/48888771/224492898-18f99142-977e-40a8-9ec3-40b145731a71.png)
 
