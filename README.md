@@ -63,17 +63,16 @@ bot = discum.Client(token="YOUR_TOKEN_HERE", log=False)
 10. Work
 11. Use Padlock
 12. Use Landmine
-<br>
+
 ![image](https://user-images.githubusercontent.com/48888771/224493189-efb86fa6-9356-4bdf-af1b-18f1a61a41dd.png)
 
 
 ## 5. Deposit, Withdraw, Use, Market
-<br>
-+ Fail: Withdraws 10% of your withdraw amount
-+ Dep & With: Deposits and Withdraws directly after each other
-+ Withdraw: Withdraws the specified amount of money
-+ Deposit: Deposits the specified amount of money
-+ Use: Uses the specified item with no arguments
-+ Market: Views current market offers for the specified item
+1. Fail: Withdraws 10% of your withdraw amount
+2. Dep & With: Deposits and Withdraws directly after each other
+3. Withdraw: Withdraws the specified amount of money
+4. Deposit: Deposits the specified amount of money
+5. Use: Uses the specified item with no arguments
+6. Market: Views current market offers for the specified item
 
 ![image](https://user-images.githubusercontent.com/48888771/224493849-2b156561-b552-40b1-ad53-4f3b9bd3243b.png)
