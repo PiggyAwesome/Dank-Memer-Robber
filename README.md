@@ -26,3 +26,8 @@ bot = discum.Client(token="YOUR_TOKEN_HERE", log=False)
     
     ...
 ```
+
+# How to run:
+
+1. Run `pip install -r requirements.txt` to install the required libraries
+2. Run the program with Python, while making sure that you are executing the command in the same folder as `funcs.py` and `visuals`
