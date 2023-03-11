@@ -76,3 +76,12 @@ bot = discum.Client(token="YOUR_TOKEN_HERE", log=False)
 6. Market: Views current market offers for the specified item
 
 ![image](https://user-images.githubusercontent.com/48888771/224493849-2b156561-b552-40b1-ad53-4f3b9bd3243b.png)
+
+
+## 6. Reactions
+#### You can easily send random short replies based on your mood (changable in `main.py`):
+- 👍 Happy = ["yey", "whoohoo", "woo", "epic", "noice"]
+- 👎 Sad = ["bruh", "wth", "wtf", "bro wtf", "bro wtf", "breh", "<a:rock_sus:1010570711414341683>"]
+- 😐 Neutral = ["bruh", "breh", "sure", "lol", "rip"] <br>
+
+![image](https://user-images.githubusercontent.com/48888771/224494160-e635c408-4dea-4d5f-955e-a390cf3cbae3.png)
