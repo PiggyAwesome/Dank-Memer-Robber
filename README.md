@@ -41,9 +41,27 @@ bot = discum.Client(token="YOUR_TOKEN_HERE", log=False)
 
 ## 2. Add users to roblist
 #### To add users to the roblist you can either copy and paste your wishlist into Window 1, or add a User ID manually. After you have added the users click the `Update Roblist` button.<br>
+
 ![image](https://user-images.githubusercontent.com/48888771/224492898-18f99142-977e-40a8-9ec3-40b145731a71.png)
 
 ## 3. Select command location
 #### Select a server you have added in `servers.json` using the dropdown menu before sending any commands. <br>
 
 ![image](https://user-images.githubusercontent.com/48888771/224492962-c37fca33-9898-4e9d-b7e8-4099c0ca6b1c.png)
+
+## 4. Misc
+#### This application makes it easy to quickly:
+1. Use a horseshoe
+2. Use Whiskey
+3. Use Alcohol
+4. Hunt
+5. Fish
+6. Dig
+7. Search
+8. Crime
+9. Scratch
+10. Work
+11. Use Padlock
+12. Use Landmine
+13. <br>
+![image](https://user-images.githubusercontent.com/48888771/224493189-efb86fa6-9356-4bdf-af1b-18f1a61a41dd.png)
